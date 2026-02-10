@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Ich liebe dich, Muah 💋❤️",
-        message: "Ich hoffe es ist iwie okay das ich so Frage 😬",
+        title: "Ich hoffe es ist iwie okay das ich so Frage 😬",
+        message: "Ich liebe dich, Muah 💋❤️",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
